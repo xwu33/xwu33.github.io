@@ -1,16 +1,12 @@
 - layout: left
   name: the University of Alabama
-  dates: 2016.8 - 2018.8
+  dates: 2016 - 2018
   qualification: Master in Science  Computer Science
   quote: >
      Where Legend are Made
   description: | # this will include new lines to allow paragraphs
     During my time at UA I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
+- layout: left
   name: Tianjin Normail University
   dates: 2012 - 2016
   qualification: Bachelor's Degree in Computer Science
-  quote: >
-     Where Legend are Made
-  description: | # this will include new lines to allow paragraphs
-    During my time at UA I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
