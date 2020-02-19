@@ -1,6 +1,6 @@
 # Project template
 - layout: top-middle
-  name: Simulation term project, 9/2017-12/2017
+  name: Simulation term project(9/2017-12/2017)
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
@@ -8,20 +8,20 @@
   description: | # this will include new lines to allow paragraphs
     Simulated a Deferrable Energy Scheduling Algorithm in Smart Grid Distribution with C
 
-  name: NDN.JS Research, 08/2016-12/2016
-  description: | # this will include new lines to allow paragraphs
-    	1. Investigated major results of NDN.JS in Ubuntu with JavaScript
-      2. Explored network environment in NDN framework such as NDNping
-
-  name: NoSQL queries, 11/2016-12/2016
-  description: | # this will include new lines to allow paragraphs
-     1. Implemented the operations required to process NoSQL queries with Java
-     2. Executed NoSQL queries such as add, minus, multiply, divide, search, average and Cartesian product
-
-  name: SQL Statements in a Webpage, 10/2016-11/2017
-  description: | # this will include new lines to allow paragraphs
-     Created MySQL tables to operate SQL statements in a webpage with Go
-
-  name: Software Test of Student System, 05/2015
-  description: | # this will include new lines to allow paragraphs
-     Specified, visualized, constructed, and documented the artifacts of software systems with Unified Modeling Language
+  # name: NDN.JS Research, 08/2016-12/2016
+  # description: | # this will include new lines to allow paragraphs
+  #   	1. Investigated major results of NDN.JS in Ubuntu with JavaScript
+  #     2. Explored network environment in NDN framework such as NDNping
+  #
+  # name: NoSQL queries, 11/2016-12/2016
+  # description: | # this will include new lines to allow paragraphs
+  #    1. Implemented the operations required to process NoSQL queries with Java
+  #    2. Executed NoSQL queries such as add, minus, multiply, divide, search, average and Cartesian product
+  #
+  # name: SQL Statements in a Webpage, 10/2016-11/2017
+  # description: | # this will include new lines to allow paragraphs
+  #    Created MySQL tables to operate SQL statements in a webpage with Go
+  #
+  # name: Software Test of Student System, 05/2015
+  # description: | # this will include new lines to allow paragraphs
+  #    Specified, visualized, constructed, and documented the artifacts of software systems with Unified Modeling Language
