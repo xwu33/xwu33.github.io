@@ -1,10 +1,13 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Office of Education Technology
+  link: https://etech.as.ua.edu/
+  job_title: Web Application Developer
+  dates:  November 2018 - present
   quote: >
-   Short description of the company (optional)
+   Developing is fun!
   description: | # this will include new lines to allow paragraphs
-    Description of role
+•	 Providing security patches and upgrades to existing codebases
+•	 Supporting and maintaining PHP web applications for Office of Education Technology
+•	 Developing the College of Art and Science website with php laravel framework
+                                                           
