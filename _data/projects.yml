@@ -7,14 +7,12 @@
 - layout: top-middle
   name: NDN.JS Research(08/2016-12/2016)
   description: | # this will include new lines to allow paragraphs
-    1. Investigated major results of NDN.JS in Ubuntu with JavaScript
-    2. Explored network environment in NDN framework such as NDNping
+    1. Investigated major results of NDN.JS in Ubuntu with JavaScript 2. Explored network environment in NDN framework such as NDNping
 
 - layout: top-middle
   name: NoSQL queries(11/2016-12/2016)
   description: | # this will include new lines to allow paragraphs
-    1. Implemented the operations required to process NoSQL queries with Java
-    2. Executed NoSQL queries such as add, minus, multiply, divide, search, average and Cartesian product
+    1. Implemented the operations required to process NoSQL queries with Java  2. Executed NoSQL queries such as add, minus, multiply, divide, search, average and Cartesian product   
 
 - layout: top-middle
   name: SQL Statements in a Webpage(10/2016-11/2017)
