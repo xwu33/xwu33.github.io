@@ -10,3 +10,16 @@
    1.Providing security patches and upgrades to existing codebases
    2.Supporting and maintaining PHP web applications for Office of Education Technology
    3.Developing the College of Art and Science website with php laravel framework
+
+- layout: left
+  company: Office of Library Technology
+  link: https://www.lib.ua.edu/libraries/gorgas/
+  job_title: Graduate Assistant
+  dates:  June 2017 - May 2018
+  quote: >
+   Developing is fun!
+  description: | # this will include new lines to allow paragraphs
+   1.Developed Augmented Reality and updated library website
+   2.Assigned student worker duties and managed information of student workers
+   3.Developed an Augmented Reality app using C# for UA Library users
+   4.Built an AR tour guide for UA virtual library
