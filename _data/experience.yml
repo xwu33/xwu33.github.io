@@ -23,3 +23,23 @@
    2.Assigned student worker duties and managed information of student workers
    3.Developed an Augmented Reality app using C# for UA Library users
    4.Built an AR tour guide for UA virtual library
+
+- layout: left
+  company: Computer Summer Camp at UA
+  link: http://outreach.cs.ua.edu/camps/index.html
+  job_title: Camp Instructor
+  dates:  July 2017 - July 2017
+  quote: >
+   Camp is fun!
+  description: | # this will include new lines to allow paragraphs
+   Guided campers in Java using Greenfoot Scenario
+
+- layout: left
+  company: Department of Computer Science at UA
+  link: http://cs.ua.edu/
+  job_title: Teaching assistant
+  dates:  August 2016 - December 2016
+  quote: >
+   Teaching is fun!
+  description: | # this will include new lines to allow paragraphs
+   Tutored students and graded course works
