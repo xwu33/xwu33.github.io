@@ -25,7 +25,7 @@ organizations:
     url: https://www.ua.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data science, artificial intelligence and machine learning.
 
 # Interests to show in About widget
 interests:
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name's Shirley and I'm a PhD student in computer science department at the University of Alabama. I was a full-time web application developer in Office of Education Technology at the University of Alabama for 3 years after getting my master's degree at UA. As well as graduate assistant at office of library technology before I graduate. I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills
 {style="text-align: justify;"}
