@@ -11,7 +11,7 @@ last_name: Wu
 
 # Status emoji
 status:
-  icon: 🙂
+Enter Building  icon: 🙂
 
 # Is this the primary user of the site?
 superuser: true
