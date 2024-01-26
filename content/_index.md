@@ -237,8 +237,8 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: xwu33@crimson.ua.edu
+      phone: 205 239 4515
       appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
