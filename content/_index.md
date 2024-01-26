@@ -76,14 +76,21 @@ sections:
               * Supported and maintained PHP web applications for Office of Education Technology
               * Developed the College of Art and Science website with php laravel framework 
                                                                        
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Assistant
+          company: Office of Library Technology at UA
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Tuscaloosa
+          date_start: '2017-06-01'
+          date_end: '2018-05-12'
+          description: |2-
+              Responsibilities include:
+
+              * Developed Augmented Reality and updated library website 
+              * Assigned student worker duties and managed information of student workers
+              * Developed an Augmented Reality app using C# for UA Library users
+              * Built an AR tour guide for UA virtual library
+
     design:
       columns: '2'
   - block: accomplishments
