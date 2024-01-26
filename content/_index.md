@@ -63,12 +63,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Web Application Developer
-          company: Office of Education Technology at the University of Alabama
+          company: the University of Alabama
           company_url: ''
           company_logo: org-gc
           location: Tuscaloosa
           date_start: '2018-11-06'
-          date_end: '2021-7-31'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
@@ -82,7 +82,7 @@ sections:
           company_logo: org-x
           location: California
           date_start: '2016-01-01'
-          date_end: '2021-12-31'
+          date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
