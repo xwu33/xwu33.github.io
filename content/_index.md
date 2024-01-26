@@ -117,7 +117,7 @@ sections:
           company_logo: org-x
           location: Tuscaloosa
           date_start: '2016-08-01'
-          date_end: '2016-012-14'
+          date_end: '2016-12-14'
           description: |2-
               * Tutored students and graded course works
 
