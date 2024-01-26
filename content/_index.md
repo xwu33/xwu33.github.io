@@ -132,23 +132,23 @@ sections:
           organization_url: https://www.tjnu.edu.cn/
           title: Being awarded scholarship in each academic year during undergraduate studies
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.ua.edu/
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2021-12-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           icon: edx
           organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          organization_url: https://www.ua.edu/
+          title: Travel Grant from Graduate School at the University of Alabama
+          url: https://www.ua.edu/
+        - certificate_url: https://www.ua.edu/
+          date_end: '2021-11-20'
+          date_start: '2021-11-23'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: https://www.ua.edu/
+          organization: the University of Alabama
+          organization_url: https://www.ua.edu/
+          title: 'IEEE/ACM CHASE Student Travel Award'
           url: ''
     design:
       columns: '2'
