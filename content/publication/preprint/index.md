@@ -1,7 +1,7 @@
 ---
 title: "Learning household-level social vulnerability in rural America,"
 authors: Xue Wu, Jiaqi Gong, 
-- admin
+# - admin
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
