@@ -123,13 +123,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.tjnu.edu.cn/
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2012-09-23'
           description: ''
-          icon: coursera
+          icon: https://www.tjnu.edu.cn/
           organization: Tianjin Normal University
-          organization_url: https://www.coursera.org
+          organization_url: https://www.tjnu.edu.cn/
           title: Being awarded scholarship in each academic year during undergraduate studies
           url: ''
         - certificate_url: https://www.edx.org
