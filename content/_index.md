@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Web Application Developer
-          company: the University of Alabama
+          company: Office of Education Technology at UA
           company_url: ''
           company_logo: org-gc
           location: Tuscaloosa
@@ -90,6 +90,16 @@ sections:
               * Assigned student worker duties and managed information of student workers
               * Developed an Augmented Reality app using C# for UA Library users
               * Built an AR tour guide for UA virtual library
+
+        - title: Camp instructor
+          company: the Computer Summer Camp at UA
+          company_url: ''
+          company_logo: org-x
+          location: Tuscaloosa
+          date_start: '2017-07-01'
+          date_end: '2018-07-14'
+          description: |2-
+              * Guided campers in Java using Greenfoot Scenario
 
     design:
       columns: '2'
