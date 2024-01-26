@@ -65,7 +65,7 @@ sections:
         - title: Web Application Developer
           company: Office of Education Technology at UA
           company_url: ''
-          company_logo: org-gc
+          company_logo: 
           location: Tuscaloosa
           date_start: '2018-11-06'
           date_end: '2021-07-31'
