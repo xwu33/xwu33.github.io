@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Learning household-level social vulnerability in rural America,"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
