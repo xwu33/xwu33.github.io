@@ -62,26 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Web Application Developer
+          company: Office of Education Technology at the University of Alabama
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Tuscaloosa
+          date_start: '2018-11-06'
+          date_end: '2021-7-31'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Provided security patches and upgrades to existing codebases
+              * Supported and maintained PHP web applications for Office of Education Technology
+              * Developed the College of Art and Science website with php laravel framework 
+                                                                       
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
           company_logo: org-x
           location: California
           date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_end: '2021-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
