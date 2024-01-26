@@ -68,7 +68,7 @@ sections:
           company_logo: org-gc
           location: Tuscaloosa
           date_start: '2018-11-06'
-          date_end: ''
+          date_end: '2021-07-31'
           description: |2-
               Responsibilities include:
 
