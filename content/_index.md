@@ -70,8 +70,6 @@ sections:
           date_start: '2018-11-06'
           date_end: '2021-07-31'
           description: |2-
-              Responsibilities include:
-
               * Provided security patches and upgrades to existing codebases
               * Supported and maintained PHP web applications for Office of Education Technology
               * Developed the College of Art and Science website with php laravel framework 
@@ -84,8 +82,6 @@ sections:
           date_start: '2017-06-01'
           date_end: '2018-05-12'
           description: |2-
-              Responsibilities include:
-
               * Developed Augmented Reality and updated library website 
               * Assigned student worker duties and managed information of student workers
               * Developed an Augmented Reality app using C# for UA Library users
@@ -109,7 +105,7 @@ sections:
           date_start: '2016-8-12'
           date_end: '2016-12-14'
           description: |2-
-              * utored students and graded course works
+              * Tutored students and graded course works
 
     design:
       columns: '2'
