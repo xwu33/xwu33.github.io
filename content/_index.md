@@ -101,6 +101,16 @@ sections:
           description: |2-
               * Guided campers in Java using Greenfoot Scenario
 
+        - title: Teaching assistant for CS100
+          company: A first course in programming at UA
+          company_url: ''
+          company_logo: org-x
+          location: Tuscaloosa
+          date_start: '2016-8-12'
+          date_end: '2016-12-14'
+          description: |2-
+              * utored students and graded course works
+
     design:
       columns: '2'
   - block: accomplishments
