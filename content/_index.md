@@ -135,8 +135,8 @@ sections:
         - certificate_url: https://www.ua.edu/
           date_end: ''
           date_start: '2021-12-01'
-          description: the University of Alabama
-          icon: edx
+          description: ''
+          icon: https://www.ua.edu/
           organization: the University of Alabama
           organization_url: https://www.ua.edu/
           title: Travel Grant from Graduate School at the University of Alabama
