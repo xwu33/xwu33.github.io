@@ -76,8 +76,8 @@ sections:
                                                                        
         - title: Graduate Assistant
           company: Office of Library Technology at UA
-          company_url: ''
-          company_logo: org-x
+          company_url: 'https://www.ua.edu/'
+          company_logo: 
           location: Tuscaloosa
           date_start: '2017-06-01'
           date_end: '2018-05-12'
