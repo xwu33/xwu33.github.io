@@ -141,7 +141,7 @@ sections:
           organization_url: https://www.ua.edu/
           title: Travel Grant from Graduate School at the University of Alabama
           url: https://www.ua.edu/
-        - certificate_url: https://www.ua.edu/
+        - certificate_url: https://conferences.computer.org/chase2022/index-2.html
           date_end: '2021-11-20'
           date_start: '2021-11-23'
           description: ''
