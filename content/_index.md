@@ -65,7 +65,7 @@ sections:
         - title: Web Application Developer
           company: Office of Education Technology at UA
           company_url: ''
-          company_logo: 
+          company_logo: the University of Alabama
           location: Tuscaloosa
           date_start: '2018-11-06'
           date_end: '2021-07-31'
@@ -89,8 +89,8 @@ sections:
 
         - title: Camp instructor
           company: the Computer Summer Camp at UA
-          company_url: ''
-          company_logo: org-x
+          company_url: 'https://www.ua.edu/'
+          company_logo: 
           location: Tuscaloosa
           date_start: '2017-07-01'
           date_end: '2018-07-14'
@@ -99,8 +99,8 @@ sections:
 
         - title: Teaching assistant for CS100
           company: A first course in programming at UA
-          company_url: ''
-          company_logo: org-x
+          company_url: 'https://www.ua.edu/'
+          company_logo: 
           location: Tuscaloosa
           date_start: '2016-08-01'
           date_end: '2016-12-14'
