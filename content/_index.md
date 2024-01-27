@@ -135,9 +135,9 @@ sections:
         - certificate_url: https://www.ua.edu/
           date_end: ''
           date_start: '2021-12-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: the University of Alabama
           icon: edx
-          organization: edX
+          organization: the University of Alabama
           organization_url: https://www.ua.edu/
           title: Travel Grant from Graduate School at the University of Alabama
           url: https://www.ua.edu/
@@ -145,9 +145,9 @@ sections:
           date_end: '2021-11-20'
           date_start: '2021-11-23'
           description: ''
-          icon: https://www.ua.edu/
+          icon: https://conferences.computer.org/chase2022/index-2.html
           organization: the University of Alabama
-          organization_url: https://www.ua.edu/
+          organization_url: https://conferences.computer.org/chase2022/index-2.html
           title: 'IEEE/ACM CHASE Student Travel Award'
           url: ''
     design:
