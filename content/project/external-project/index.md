@@ -1,7 +1,8 @@
 ---
 title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
-tags:
+summary: Investigated major results of NDN.JS in Ubuntu with JavaScript
+Explored network environment in NDN framework such as NDNping
+
   - Demo
 date: "2016-04-27T00:00:00Z"
 
