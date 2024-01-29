@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Simulation term project
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
