@@ -1,5 +1,5 @@
 ---
-title: NDN.JS Research, 08/2016-12/2016
+title: NDN.JS Research
 summary: ''
   - Investigated major results of NDN.JS in Ubuntu with JavaScript
   - Explored network environment in NDN framework such as NDNping
