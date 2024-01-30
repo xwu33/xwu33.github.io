@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Let Every Voice Be Heard: Developing a Cost-Effective Community Sampling Frame in Rural Alabama to Combat COVID-19 (poster),"
 authors:
 - admin
 - Shengting Cao 
