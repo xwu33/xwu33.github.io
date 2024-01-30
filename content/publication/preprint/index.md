@@ -1,10 +1,12 @@
 ---
 title: "Learning household-level social vulnerability in rural America,"
 authors: 
-- Xue Wu
+- admin
 - Jiaqi Gong
-date: "2019-04-07T00:00:00Z"
+date: "2022-05-11T00:00:00Z"
 doi: ""
+
+# “Learning household-level social vulnerability in rural America,” 45th Annual Rural Health Conference, Albuquerque, NM, USA, May 11-13, 2022 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
