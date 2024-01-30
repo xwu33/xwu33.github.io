@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Presentation at IEEE chase conference
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
