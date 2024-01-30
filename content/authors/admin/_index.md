@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xue "Shirley" Wu
+title: Xue Wu
 
 # Name pronunciation (optional)
 name_pronunciation: ''
