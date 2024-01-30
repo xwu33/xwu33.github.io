@@ -2,7 +2,9 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- Shengting Cao 
+- Hee Yun Lee
+- Jiaqi Gong
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -18,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Connected Health: Applications, Systems and Engineering Technologies,Washington, D.C., VA, USA, November 17-19, 2022"
+publication: "IEEE Connected Health: Applications, Systems and Engineering Technologies,Washington, D.C., VA, USA, November 17-19, 2022"
 publication_short: ""
 
 
