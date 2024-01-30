@@ -1,6 +1,6 @@
 ---
 title: Simulation term project
-summary: An example of using the in-built project page.
+summary: Simulated a Deferrable Energy Scheduling Algorithm in Smart Grid Distribution with C
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
