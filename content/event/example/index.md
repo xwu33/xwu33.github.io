@@ -1,5 +1,5 @@
 ---
-title: Presentation at IEEE chase conference
+title: Presentation at 2022 IEEE chase conference
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
