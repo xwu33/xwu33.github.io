@@ -1,7 +1,8 @@
 ---
 title: "Learning household-level social vulnerability in rural America,"
-authors: Jiaqi Gong
+authors: 
 - admin
+- Jiaqi Gong
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
