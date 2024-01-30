@@ -4,7 +4,7 @@ title: Presentation at 2022 IEEE chase conference
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Washington, D.C.
 address:
   street: 450 Serra Mall
   city: Stanford
