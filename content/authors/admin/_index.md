@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Hi, my name's Shirley and I'm a PhD student in computer science department at the University of Alabama. I was a full-time web application developer in Office of Education Technology at the University of Alabama for 3 years after getting my master's degree at UA. As well as graduate assistant at office of library technology before I graduate. I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and leadership skills
+Hi, my name's Shirley and I'm a PhD student in computer science department at the University of Alabama. I was a full-time web application developer in Office of Education Technology at the University of Alabama for 3 years after getting my master's degree at UA. As well as graduate assistant at office of library technology before I graduate. I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and leadership skills.
 {style="text-align: justify;"}
