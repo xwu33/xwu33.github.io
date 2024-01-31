@@ -87,7 +87,7 @@ sections:
               * Developed an Augmented Reality app using C# for UA Library users
               * Built an AR tour guide for UA virtual library
 
-        - title: Camp instructor
+        - title: Camp Instructor
           company: the Computer Summer Camp at UA
           company_url: 'https://www.ua.edu/'
           company_logo: 
@@ -97,7 +97,7 @@ sections:
           description: |2-
               * Guided campers in Java using Greenfoot Scenario
 
-        - title: Teaching assistant for CS100
+        - title: Teaching Assistant for CS100
           company: A first course in programming at UA
           company_url: 'https://www.ua.edu/'
           company_logo: 
