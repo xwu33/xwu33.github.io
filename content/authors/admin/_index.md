@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: the University of Alabama
-      year: 2024
+      year: 2026
     - course: Master in Science  Computer Science
       institution: the University of Alabama
       year: 2018
