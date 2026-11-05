@@ -17,7 +17,7 @@ Enter Building  icon: 🙂
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,7 +32,6 @@ interests:
   - Artificial Intelligence
   - Data Science
   - Remote Sensing Data Analysis
-  - Nature Language Processing
 
 # Education to show in About widget
 education:
@@ -121,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Hi, my name's Shirley and I'm a PhD student in computer science department at the University of Alabama. I was a full-time web application developer in Office of Education Technology at the University of Alabama for 3 years. As well as graduate assistant at Office of Library Technology before I graduate. I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and leadership skills.
+Hi, my name's Shirley and I'm a PhD candidate in computer science department at the University of Alabama. I was a full-time web application developer in Office of Education Technology at the University of Alabama for 3 years. As well as graduate assistant at Office of Library Technology before I graduate. I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and leadership skills.
 {style="text-align: justify;"}
