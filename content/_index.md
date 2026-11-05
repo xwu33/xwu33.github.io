@@ -68,7 +68,7 @@ sections:
           company_url: ''
           company_logo: 
           location: Tuscaloosa
-          date_start: '2025-8-01'
+          date_start: '2025-08-01'
           date_end: '2026-05-31'
           description: |2-    
               *	Grade assignments and attendances for ENGR 104.
@@ -80,7 +80,7 @@ sections:
           company_url: ''
           company_logo: 
           location: Tuscaloosa
-          date_start: '2021-8-01'
+          date_start: '2021-08-01'
           date_end: '2024-05-31'
           description: |2-
               *	Conducted deep learning and computer vision analysis on remote sensing data.
