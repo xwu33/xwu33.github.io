@@ -61,7 +61,36 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+                                                         
+    items:
+        - title: Graduate Teaching Assistant
+          company: CS department at UA
+          company_url: ''
+          company_logo: 
+          location: Tuscaloosa
+          date_start: '2025-8-01'
+          date_end: '2026-05-31'
+          description: |2-    
+              *	Grade assignments and attendances for ENGR 104.
+              *	Answer student questions via email and in person.
+              *	Create exams and assignments, and lead lecture for over 200 students.
+                                                    
+
+    items:
+        - title: Graduate Research Assistant
+          company: CS department at UA
+          company_url: ''
+          company_logo: 
+          location: Tuscaloosa
+          date_start: '2021-8-01'
+          date_end: '2024-05-31'
+          description: |2-
+              *	Conducted deep learning and computer vision analysis on remote sensing data.
+              *	Developed a community sampling framework using multiple algorithms.
+              *	Extracted public facility locations from satellite data via Google Geocoding API.
+              *	Analyzed satellite data features using Interquartile Range (IQR) techniques and VLMs.
+              
+    items:
         - title: Web Application Developer
           company: Office of Education Technology at UA
           company_url: ''
