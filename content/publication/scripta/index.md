@@ -37,7 +37,7 @@ publication_short: In *ICW*
 abstract: Refractory high-entropy alloys (RHEAs) exhibit unique dislocation behaviors that underpin their exceptional mechanical properties. However, the vast compositional space and complex local atomic environments make it difficult to tailor dislocation slip mechanisms. In this study, we demonstrate that dislocation slip resistance in RHEAs with local ordering can be effectively tuned by jointly adjusting the diffuse-antiphase-boundary energy (DAPBE) and lattice distortion difference (LDD). Using a high-throughput framework enabled by a physics-informed graph neural network, we systematically explored the MoNbTaW compositional space through atomistic simulations with machine-learning potentials. Our findings reveal that increasing DAPBE strengthens resistance to screw dislocation slip, while increasing LDD diminishes this effect but enhances the resistance to edge dislocation slip. Notably, compositions exhibiting both high DAPBE and LDD yield a balanced dislocation response. This study offers a design strategy to improve the strength–ductility synergy in BCC RHEAs by tuning intrinsic material parameters via local ordering.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
