@@ -1,5 +1,5 @@
 ---
-title: '3 Neural Rendering Technology in VR and AR'
+title: 'Neural Rendering Technology in VR and AR'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
