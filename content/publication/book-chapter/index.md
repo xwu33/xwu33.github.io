@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.google.com/books/edition/Metaverse_Platform_Implementation/bdqYEQAAQBAJ?hl=en&gbpv=1&dq=info:0uZNNkDTjVEJ:scholar.google.com&pg=PT14&printsec=frontcover)
+url_pdf: https://www.google.com/books/edition/Metaverse_Platform_Implementation/bdqYEQAAQBAJhl=en&gbpv=1&dq=info:0uZNNkDTjVEJ:scholar.google.com&pg=PT14&printsec=frontcover
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
