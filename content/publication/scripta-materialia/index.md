@@ -1,23 +1,29 @@
 ---
-title: 'An example conference paper'
+title: 'Tuning screw-to-edge dislocation slip discrepancy via graph neural network–accelerated exploration of local ordered states in refractory high-entropy alloys'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Yi Yao
+  - Zhengyu Zhang
+  - Jonathan Cappola
   - admin
-  - Robert Ford
+  - Jiaqi Gong
+  - Feng Yan
+  - Wenjun Cai
+  - Lin Li
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2026-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2026-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +34,7 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Refractory high-entropy alloys (RHEAs) exhibit unique dislocation behaviors that underpin their exceptional mechanical properties. However, the vast compositional space and complex local atomic environments make it difficult to tailor dislocation slip mechanisms. In this study, we demonstrate that dislocation slip resistance in RHEAs with local ordering can be effectively tuned by jointly adjusting the diffuse-antiphase-boundary energy (DAPBE) and lattice distortion difference (LDD). Using a high-throughput framework enabled by a physics-informed graph neural network, we systematically explored the MoNbTaW compositional space through atomistic simulations with machine-learning potentials. Our findings reveal that increasing DAPBE strengthens resistance to screw dislocation slip, while increasing LDD diminishes this effect but enhances the resistance to edge dislocation slip. Notably, compositions exhibiting both high DAPBE and LDD yield a balanced dislocation response. This study offers a design strategy to improve the strength–ductility synergy in BCC RHEAs by tuning intrinsic material parameters via local ordering.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +50,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://www.sciencedirect.com/science/article/pii/S1359646225004245'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
