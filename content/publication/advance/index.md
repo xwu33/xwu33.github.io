@@ -1,5 +1,5 @@
 ---
-title: "Advancing Data Quality for Healthcare AI: Integrating Google Earth and Community Data in Opioid Crisis Mitigationvvv,"
+title: "Advancing Data Quality for Healthcare AI: Integrating Google Earth and Community Data in Opioid Crisis Mitigation,"
 authors:
 - admin
 - Jiaqi Gong
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://dl.acm.org/doi/epdf/10.1145/3721201.3725436)
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
