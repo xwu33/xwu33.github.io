@@ -1,5 +1,5 @@
 ---
-title: '3 Neural Rendering Technology in VR and AR'
+title: 'Tuning screw-to-edge dislocation slip discrepancy via graph neural network–accelerated exploration of local ordered states in refractory high-entropy alloys'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
