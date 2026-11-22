@@ -18,7 +18,7 @@ publishDate: "2025-06-24T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies, New York, NY, USA, June 24-26, 2025"
+publication: "Metaverse Platform Implementation: AI, Security, and Applications"
 publication_short: ""
 
 
