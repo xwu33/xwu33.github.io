@@ -24,7 +24,7 @@ publication: "IEEE Connected Health: Applications, Systems and Engineering Techn
 publication_short: ""
 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The lack of accurate data on the rural communities’ perspectives of the COVID-19 vaccine impairs the planning, monitoring, and evaluation of vaccine programs. Notably, we do not have adequate data to understand why, although COVID-19 has disproportionately impacted minority populations in these communities, they are reported to be the least likely to be vaccinated. This paper develops a cost-effective community sampling frame based on satellite imagery and machine learning to improve the diversity of data and study the association between household-level visual information and COVID-19 vaccination rates in the Alabama Black Belt. The results provided solid evidence for the hypothesis that high-resolution satellite imagery contains valuable information to understand communities’ perspectives on the COVID-19 vaccine. It also generated extra knowledge and implications for community health to help social workers to develop future vaccine promotion strategies in rural America.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9983641
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
