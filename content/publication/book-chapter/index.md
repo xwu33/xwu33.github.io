@@ -1,5 +1,5 @@
 ---
-title: "Neural Rendering Technology in VR and AR,"
+title: "Neural Rendering Technology in VR and ARccc,"
 authors:
 - Shengting Cao
 - admin
