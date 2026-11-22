@@ -1,5 +1,5 @@
 ---
-title: 'SatBLIP: Context Understanding and Feature Identification from Satellite Imagery with Vision-Language Learning'
+title: 'SatBLIP: Context Understanding and Feature Identification from Satellite Imagery with Vision-Language Learning,'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
