@@ -7,7 +7,6 @@ title: 'SatBLIP: Context Understanding and Feature Identification from Satellite
 authors:
   - admin
   - Shengting Cao
-  - admin
   - Shenglin Li
   - Jiaqi Gong
 
