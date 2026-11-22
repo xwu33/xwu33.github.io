@@ -1,8 +1,8 @@
 ---
-title: "Advancing Data Quality for Healthcare AI: Integrating Google Earth and Community Data in Opioid Crisis Mitigation,"
+title: "Neural Rendering Technology in VR and AR,"
 authors:
+- Shengting Cao
 - admin
-- Jiaqi Gong
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
